@@ -6,3 +6,5 @@ while (k < Indice) {
 }
 
 console.log(soma);
+
+// RESULTADO = 91
