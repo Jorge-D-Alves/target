@@ -1,0 +1,43 @@
+* {
+  padding:0;
+  margin:0;
+  vertical-align:baseline;
+  list-style:none;
+  border:0
+  }
+body {
+  background-color: rgb(255,254,254);
+  margin: 0, auto;
+
+}
+
+.banner {
+  height: 458px;
+  /* padding-bottom: 50px; */
+  /* width: 200px; */
+  /* height: 150px; */
+}
+
+.img {
+  background-image: url(	https://targetsistemas.com.br/img/banners/home.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 458px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 200px;
+  color: white;
+  font: 1em, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.content {
+  background: #f2f2f2;
+  margin: 10px;
+  height: 473px;
+  /* padding-bottom: 50px; */
+  /* width: 200px; */
+  /* height: 150px; */
+}
