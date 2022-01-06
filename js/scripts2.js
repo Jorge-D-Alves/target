@@ -6,9 +6,8 @@ function fibona(num) {
     fib[i] = fib[i - 2] + fib[i - 1];
 
     if (fib[i] === num) {
-      return `O numero ${num} pertence a sequencia fib[i] é ${fib[i]}`
+      return `O numero ${num} pertence a sequencia fibonacci`
     } 
   }
-  return `O numero ${num} não pertence a sequencia fig[i] é ${fib[i]}`
+  return `O numero ${num} não pertence a sequencia fibonacci`
 }
-
